@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1693cd42-249e-4cd5-9b7b-e9e93199922b" name="Appache2" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/Applications/MAMP/htdocs/Scheduler" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
